@@ -9,7 +9,25 @@ uid: 10db64f8-6d56-8e34-4922-f495cc551eca
 Session Overview
 ----------------
 
-| ![Photo of a large soap bubble on a yellow car with palm trees in the background.]({{< resource_file ec2506d5-8c1c-3716-f3af-c74aef7639ba >}}) |  {{< br >}}{{< br >}} Covered this week:  {{< br >}}In week 9, we continue to study Lagrange equations with an emphasis on finding generalized forces. {{< br >}}{{< br >}} The shape of this bubble corresponds to a solution of the Lagrange equations. Image courtesy of [whologwhy](http://www.flickr.com/photos/60417477@N00/5484388334/) on Flickr. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photo of a large soap bubble on a yellow car with palm trees in the background.]({{< resource_file ec2506d5-8c1c-3716-f3af-c74aef7639ba >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covered this week:  
+In week 9, we continue to study Lagrange equations with an emphasis on finding generalized forces.
+
+The shape of this bubble corresponds to a solution of the Lagrange equations. Image courtesy of [whologwhy](http://www.flickr.com/photos/60417477@N00/5484388334/) on Flickr.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments
 -----------

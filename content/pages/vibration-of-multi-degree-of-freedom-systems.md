@@ -9,7 +9,25 @@ uid: c9bc5d26-e2c3-014e-ae82-f96f3f7633d2
 Session Overview
 ----------------
 
-| ![Photographs of ripples in a pond emanating from multiple points.]({{< resource_file 539a0a6c-7a5a-f345-f44e-207e441ceecd >}}) |  {{< br >}}{{< br >}} Covered this week:  {{< br >}}This week we introduce the concept of mode superposition. The vibration of N-DOF linear systems can be modeled as the superposition of the response of N Single DOF oscillators. {{< br >}}{{< br >}} The ripples on this pond are an example of superposed waves that will soon disperse. Image courtesy of [John Martin](http://www.flickr.com/photos/63586135@N00/4266351498/) on Flickr. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photographs of ripples in a pond emanating from multiple points.]({{< resource_file 539a0a6c-7a5a-f345-f44e-207e441ceecd >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covered this week:  
+This week we introduce the concept of mode superposition. The vibration of N-DOF linear systems can be modeled as the superposition of the response of N Single DOF oscillators.
+
+The ripples on this pond are an example of superposed waves that will soon disperse. Image courtesy of [John Martin](http://www.flickr.com/photos/63586135@N00/4266351498/) on Flickr.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments
 -----------

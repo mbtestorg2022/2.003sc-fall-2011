@@ -9,7 +9,25 @@ uid: 49b2e57b-25e7-8f5e-7535-7bd01348a8e1
 Session Overview
 ----------------
 
-| ![Photograph of a computer screen showing boxes and arrows indicating directions of forces.]({{< resource_file 49ba4697-a96d-bf06-9a64-e4fd5fc93ff3 >}}) |  {{< br >}}{{< br >}} Covered this week:  {{< br >}}In week 4, we practice using free body diagrams to help us find equations of motion. We do several example problems. We discuss the concept of a fictitious force as well as the hazards in using them. {{< br >}}{{< br >}} Computer-generated free body diagrams for a moving elevator. Image courtesy of [Waifer X](http://www.flickr.com/photos/waiferx/5948206825/) on Flickr. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photograph of a computer screen showing boxes and arrows indicating directions of forces.]({{< resource_file 49ba4697-a96d-bf06-9a64-e4fd5fc93ff3 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covered this week:  
+In week 4, we practice using free body diagrams to help us find equations of motion. We do several example problems. We discuss the concept of a fictitious force as well as the hazards in using them.
+
+Computer-generated free body diagrams for a moving elevator. Image courtesy of [Waifer X](http://www.flickr.com/photos/waiferx/5948206825/) on Flickr.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments
 -----------

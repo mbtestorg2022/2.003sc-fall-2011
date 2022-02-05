@@ -9,7 +9,25 @@ uid: 9fdc3853-8645-b3ee-78bf-504125c7ccf2
 Session Overview
 ----------------
 
-| ![illustration of a double pendulum formula]({{< resource_file 2294c735-c4a5-eca0-d1d6-ee3072c74f6d >}}) |  {{< br >}}{{< br >}} Covered this week:  {{< br >}}Week 7 emphasizes finding the equations of motion of rotating and translating rigid bodies. We introduce more complex problems and consider systems with more than one degree of freedom. We discuss how to cleverly select the point about which one computes torques and angular momentum and present examples. We use an important alternative form of Euler's torque equation. {{< br >}}{{< br >}} Diagram of a double pendulum, a classic and extremely complex example of a system with multiple degrees of freedom. Public domain image. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![illustration of a double pendulum formula]({{< resource_file 2294c735-c4a5-eca0-d1d6-ee3072c74f6d >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covered this week:  
+Week 7 emphasizes finding the equations of motion of rotating and translating rigid bodies. We introduce more complex problems and consider systems with more than one degree of freedom. We discuss how to cleverly select the point about which one computes torques and angular momentum and present examples. We use an important alternative form of Euler's torque equation.
+
+Diagram of a double pendulum, a classic and extremely complex example of a system with multiple degrees of freedom. Public domain image.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments
 -----------

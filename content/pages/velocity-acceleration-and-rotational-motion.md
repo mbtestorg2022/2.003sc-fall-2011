@@ -9,7 +9,25 @@ uid: d479c0ac-1170-243d-23ce-3aa59b83a427
 Session Overview
 ----------------
 
-| ![A male gymnast is in a straddled position midair with his hands reaching down to catch the high bar.]({{< resource_file 5ba65b5d-ce91-65da-05c1-7eadf05667e9 >}}) |  {{< br >}}{{< br >}} Covered this week:  {{< br >}}In week 2, we continue with the study of Newton's laws. We reviewed the third law and its application to finding the center of mass. Next, we take up the topic of kinematics in translating and rotating frames. In lecture 4, we do a series of examples where velocity and acceleration using polar and cylindrical coordinates, then ending with an introduction to normal and tangential unit vectors. {{< br >}}{{< br >}} A male gymnast completes a complicated move involving simultaneous rotation and translation. Image courtesy of [Singapore 2010 Youth Olympic Games](http://www.flickr.com/photos/singapore2010/4916726882/). {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![A male gymnast is in a straddled position midair with his hands reaching down to catch the high bar.]({{< resource_file 5ba65b5d-ce91-65da-05c1-7eadf05667e9 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covered this week:  
+In week 2, we continue with the study of Newton's laws. We reviewed the third law and its application to finding the center of mass. Next, we take up the topic of kinematics in translating and rotating frames. In lecture 4, we do a series of examples where velocity and acceleration using polar and cylindrical coordinates, then ending with an introduction to normal and tangential unit vectors.
+
+A male gymnast completes a complicated move involving simultaneous rotation and translation. Image courtesy of [Singapore 2010 Youth Olympic Games](http://www.flickr.com/photos/singapore2010/4916726882/).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments
 -----------

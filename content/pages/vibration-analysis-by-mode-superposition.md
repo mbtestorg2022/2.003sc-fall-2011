@@ -9,7 +9,25 @@ uid: dcb2cda1-7e74-304f-15d8-a1aecb3cab44
 Session Overview
 ----------------
 
-| ![Close up image of piano strings inside a piano.]({{< resource_file de81a553-0ab6-f50f-99f0-0691c977edc1 >}}) |  {{< br >}}{{< br >}} Covered this week:  {{< br >}}This week we apply modal superposition to the analysis of the response of multi-dof systems to initial conditions and to excitation by steady state harmonic forces. {{< br >}}{{< br >}} Piano strings are each chosen and tuned such that they have a specific natural frequency. Image courtesy of [Maruku San](http://www.flickr.com/photos/marukusan/2077906257/) on Flickr. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Close up image of piano strings inside a piano.]({{< resource_file de81a553-0ab6-f50f-99f0-0691c977edc1 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covered this week:  
+This week we apply modal superposition to the analysis of the response of multi-dof systems to initial conditions and to excitation by steady state harmonic forces.
+
+Piano strings are each chosen and tuned such that they have a specific natural frequency. Image courtesy of [Maruku San](http://www.flickr.com/photos/marukusan/2077906257/) on Flickr.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments
 -----------

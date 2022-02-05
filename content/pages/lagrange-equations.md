@@ -9,7 +9,25 @@ uid: 80655e0a-6d9a-14f6-5217-66094b07db0c
 Session Overview
 ----------------
 
-| ![Image of a postage stamp with a portrait of the French mathematician Lagrange.]({{< resource_file d2db8515-a984-ed8c-01c0-424cade28213 >}}) |  {{< br >}}{{< br >}} Covered this week:  {{< br >}}In week 8, we begin to use energy methods to find equations of motion for mechanical systems. We implement this technique using what are commonly known as Lagrange Equations, named after the French mathematician who derived the equations in the early 19th century. The method requires being able to express the kinetic and potential energies of rigid bodies, as well as the virtual work done by non-conservative external forces, referred to as generalized forces. {{< br >}}{{< br >}} Postage stamp of Joseph-Louis Lagrange to honor the French mathematician who derived the Lagrange equations. Public domain image. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Image of a postage stamp with a portrait of the French mathematician Lagrange.]({{< resource_file d2db8515-a984-ed8c-01c0-424cade28213 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covered this week:  
+In week 8, we begin to use energy methods to find equations of motion for mechanical systems. We implement this technique using what are commonly known as Lagrange Equations, named after the French mathematician who derived the equations in the early 19th century. The method requires being able to express the kinetic and potential energies of rigid bodies, as well as the virtual work done by non-conservative external forces, referred to as generalized forces.
+
+Postage stamp of Joseph-Louis Lagrange to honor the French mathematician who derived the Lagrange equations. Public domain image.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments
 -----------

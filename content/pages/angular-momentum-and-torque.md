@@ -9,7 +9,25 @@ uid: a040d3e0-0e6a-0dff-a6b0-aad775496601
 Session Overview
 ----------------
 
-| ![Photograph of people on a ride with a round central structure with swings hanging down from it and with the central structure spinning quickly enough for the people on the swings to feel a force away from the center of the ride.]({{< resource_file 8a5610e3-4b36-7f2c-5222-3099d8ee6d04 >}}) |  {{< br >}}{{< br >}} Covered this week:  {{< br >}}Week 3 continues with more difficult examples of the computation of velocity and acceleration in translating and rotating frames. Angular momentum is introduced and the general formulation of the relation between torque and the time rate of change of angular momentum is introduced, including cases where the angular momentum is computed with respect to moving parts. Two very important cases are discussed: torque and angular momentum with respect to fixed axes of rotation and with respect to the center of mass. {{< br >}}{{< br >}} The principles presented this week explain why the passengers on this swing ride feel an upward lift as the central structure whirls. Image courtesy of [Hillbraith](http://www.flickr.com/photos/57458501@N00/2889312299/) on Flickr. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photograph of people on a ride with a round central structure with swings hanging down from it and with the central structure spinning quickly enough for the people on the swings to feel a force away from the center of the ride.]({{< resource_file 8a5610e3-4b36-7f2c-5222-3099d8ee6d04 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covered this week:  
+Week 3 continues with more difficult examples of the computation of velocity and acceleration in translating and rotating frames. Angular momentum is introduced and the general formulation of the relation between torque and the time rate of change of angular momentum is introduced, including cases where the angular momentum is computed with respect to moving parts. Two very important cases are discussed: torque and angular momentum with respect to fixed axes of rotation and with respect to the center of mass.
+
+The principles presented this week explain why the passengers on this swing ride feel an upward lift as the central structure whirls. Image courtesy of [Hillbraith](http://www.flickr.com/photos/57458501@N00/2889312299/) on Flickr.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments
 -----------

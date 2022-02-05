@@ -9,7 +9,25 @@ uid: 4479bfdd-0c9f-9aa1-d70c-3af5c347e198
 Session Overview
 ----------------
 
-| ![Image of the Brooklyn Bridge taken from on the bridge, looking up.]({{< resource_file 2eccfe2d-0702-c295-d07b-180c06dd2912 >}}) |  {{< br >}}{{< br >}} Covered this week:  {{< br >}}This week we discuss ways of treating vibration problems. In particular the design of vibration isolation supports. Then we consider the vibration of systems with multiple degrees of freedom. {{< br >}}{{< br >}} The Brooklyn Bridge is one of the oldest suspension bridges in the United States and the first steel-wire suspension bridge. Image courtesy of [Daniel Stone](http://www.flickr.com/photos/91034415@N00/5172711476/) on Flickr. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Image of the Brooklyn Bridge taken from on the bridge, looking up.]({{< resource_file 2eccfe2d-0702-c295-d07b-180c06dd2912 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covered this week:  
+This week we discuss ways of treating vibration problems. In particular the design of vibration isolation supports. Then we consider the vibration of systems with multiple degrees of freedom.
+
+The Brooklyn Bridge is one of the oldest suspension bridges in the United States and the first steel-wire suspension bridge. Image courtesy of [Daniel Stone](http://www.flickr.com/photos/91034415@N00/5172711476/) on Flickr.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Videos
 ------

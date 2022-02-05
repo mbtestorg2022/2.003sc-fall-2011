@@ -3,8 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 7: Degrees of Freedom, Free Body Diagrams, and Fictitious Forces\t\
-  \t\t\t"
+title: 'Lecture 7: Degrees of Freedom, Free Body Diagrams, and Fictitious Forces    '
 uid: 0817b32f-e05e-5960-fce2-01373bbaa264
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec07_300k.mp4

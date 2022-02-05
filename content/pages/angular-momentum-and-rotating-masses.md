@@ -9,7 +9,27 @@ uid: 5a443f4f-d020-ca36-4f90-db3463369b68
 Session Overview
 ----------------
 
-| ![A man in a red collared shirt and an old-fashioned hat juggles flaming torches.]({{< resource_file 96ace0dd-1360-8be1-6fd4-2c080ce64909 >}}) |  {{< br >}}{{< br >}} Covered this week:  {{< br >}}In week 5, we introduce the concept of mass moment of inertia as the summation of the contributions of individual mass particles to the total angular momentum of the system. We find the mass moment of inertia matrix and explain the meaning of the diagonal and off-diagonal terms. We introduce the relationship between torque and time rate of change of angular momentum. {{< br >}}{{< br >}} There is no problem set this week. {{< br >}}{{< br >}} A street performer in Quebec City juggles torches by repeatedly throwing and rotating the burning rods. Image courtesy of [Reza Vaziri](http://www.flickr.com/photos/60309376@N00/1400683166/) on Flickr. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![A man in a red collared shirt and an old-fashioned hat juggles flaming torches.]({{< resource_file 96ace0dd-1360-8be1-6fd4-2c080ce64909 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covered this week:  
+In week 5, we introduce the concept of mass moment of inertia as the summation of the contributions of individual mass particles to the total angular momentum of the system. We find the mass moment of inertia matrix and explain the meaning of the diagonal and off-diagonal terms. We introduce the relationship between torque and time rate of change of angular momentum.
+
+There is no problem set this week.
+
+A street performer in Quebec City juggles torches by repeatedly throwing and rotating the burning rods. Image courtesy of [Reza Vaziri](http://www.flickr.com/photos/60309376@N00/1400683166/) on Flickr.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Videos
 ------

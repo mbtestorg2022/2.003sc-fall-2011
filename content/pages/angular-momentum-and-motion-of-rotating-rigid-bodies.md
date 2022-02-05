@@ -9,7 +9,25 @@ uid: 56c852b3-74a3-02bc-a7e7-ed5c15fa36ac
 Session Overview
 ----------------
 
-| ![An infant on hands and knees reaches out an exploratory hand toward a large toy spinning top in motion on the floor in front of it.]({{< resource_file e1f2e431-0a61-b57c-de78-52cb96308135 >}}) |  {{< br >}}{{< br >}} Covered this week:  {{< br >}}Week 6 addresses the angular momentum of rigid bodies. First we examine the moment of inertia of a rigid body and use it to express the angular momentum of rigid bodies. We then address finding the equations of motion for rotating rigid bodies and discuss problem solving strategies. We break down typical problems into four different classes and present example problems for each class of problems. Finally, we introduce a more powerful formulation of the torque equation for rigid bodies. {{< br >}}{{< br >}} Spinning tops are an example of a rotating rigid body often used as a children’s toy. Image courtesy of [Sean Dreilinger](http://www.flickr.com/photos/43927576@N00/724052081/) on Flickr. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![An infant on hands and knees reaches out an exploratory hand toward a large toy spinning top in motion on the floor in front of it.]({{< resource_file e1f2e431-0a61-b57c-de78-52cb96308135 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covered this week:  
+Week 6 addresses the angular momentum of rigid bodies. First we examine the moment of inertia of a rigid body and use it to express the angular momentum of rigid bodies. We then address finding the equations of motion for rotating rigid bodies and discuss problem solving strategies. We break down typical problems into four different classes and present example problems for each class of problems. Finally, we introduce a more powerful formulation of the torque equation for rigid bodies.
+
+Spinning tops are an example of a rotating rigid body often used as a children’s toy. Image courtesy of [Sean Dreilinger](http://www.flickr.com/photos/43927576@N00/724052081/) on Flickr.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments
 -----------

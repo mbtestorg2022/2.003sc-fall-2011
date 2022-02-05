@@ -9,7 +9,24 @@ uid: 70dbfa93-e140-9409-6311-b3641daa05ef
 Session Overview
 ----------------
 
-| ![billiard balls being struck by a cue ball]({{< resource_file 371dd308-8ff0-0cf0-61a9-d4a967913784 >}}) |  {{< br >}}{{< br >}} In week 1, we introduce Newton's three laws of motion. We use them to write an equation of motion. Equations of motion require the evaluation of displacements, velocities, and accelerations. The study of motion is called kinematics. In this course, we use vectors to describe the motion of rigid bodies. The equations for vector displacements, velocities, and accelerations are developed in the first week. {{< br >}}{{< br >}} Billiards is a game that requires a familiarity with Newton's laws. Image courtesy of [fictures](http://www.flickr.com/photos/fictures/5969746/) on Flickr. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![billiard balls being struck by a cue ball]({{< resource_file 371dd308-8ff0-0cf0-61a9-d4a967913784 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In week 1, we introduce Newton's three laws of motion. We use them to write an equation of motion. Equations of motion require the evaluation of displacements, velocities, and accelerations. The study of motion is called kinematics. In this course, we use vectors to describe the motion of rigid bodies. The equations for vector displacements, velocities, and accelerations are developed in the first week.
+
+Billiards is a game that requires a familiarity with Newton's laws. Image courtesy of [fictures](http://www.flickr.com/photos/fictures/5969746/) on Flickr.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments
 -----------

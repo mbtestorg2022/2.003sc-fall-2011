@@ -9,7 +9,25 @@ uid: 56828116-6798-4acb-bfaa-7d752c91ca91
 Session Overview
 ----------------
 
-| ![Photo of old-fashioned balance scales on a white background.]({{< resource_file 996e1292-32b0-c5ad-240a-fde6bfa6619b >}}) |  {{< br >}}{{< br >}} Covered this week:  {{< br >}}The last several lectures deal with mechanical vibration. Up to now in the course considerable emphasis has been placed on finding equations of motion of mechanical systems. The study of vibration will emphasize the analysis of the solution of the equations of motion of a particularly important class of dynamics problems: the vibration of machines. {{< br >}}{{< br >}} Balance scales are simple tools that can give the mass of an object relative to another object through finding the equilibrium point. Image courtesy of [Lichfield District Council](http://www.flickr.com/photos/30084068@N08/3813864085/) on Flickr. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photo of old-fashioned balance scales on a white background.]({{< resource_file 996e1292-32b0-c5ad-240a-fde6bfa6619b >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Covered this week:  
+The last several lectures deal with mechanical vibration. Up to now in the course considerable emphasis has been placed on finding equations of motion of mechanical systems. The study of vibration will emphasize the analysis of the solution of the equations of motion of a particularly important class of dynamics problems: the vibration of machines.
+
+Balance scales are simple tools that can give the mass of an object relative to another object through finding the equilibrium point. Image courtesy of [Lichfield District Council](http://www.flickr.com/photos/30084068@N08/3813864085/) on Flickr.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments
 -----------
