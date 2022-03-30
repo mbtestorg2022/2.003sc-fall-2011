@@ -10,6 +10,7 @@ image_metadata:
     States and the first steel-wire suspension bridge.
   credit: Image courtesy of Daniel Stone on Flickr.
   image-alt: Image of the Brooklyn Bridge taken from on the bridge, looking up.
+parent_uid: 4479bfdd-0c9f-9aa1-d70c-3af5c347e198
 resourcetype: Image
 title: sess11_th.jpg
 uid: 2eccfe2d-0702-c295-d07b-180c06dd2912

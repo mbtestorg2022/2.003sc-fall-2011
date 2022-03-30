@@ -4,6 +4,7 @@ description: 'This file contains information regarding recitation 9 notes: gener
   forces with double pendulum example.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-003sc-engineering-dynamics-fall-2011/359081aa42b42d21425785fa151c89f6_MIT2_003SCF11_rec9notes1.pdf
 file_type: application/pdf
+parent_uid: 10db64f8-6d56-8e34-4922-f495cc551eca
 resourcetype: Document
 title: 'Recitation 9 Notes: Generalized Forces with Double Pendulum Example '
 uid: 359081aa-42b4-2d21-4257-85fa151c89f6

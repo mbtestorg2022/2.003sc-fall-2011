@@ -9,6 +9,7 @@ image_metadata:
     a system with multiple degrees of freedom.
   credit: Public domain image.
   image-alt: Labeled diagram of a double pendulum.
+parent_uid: 9fdc3853-8645-b3ee-78bf-504125c7ccf2
 resourcetype: Image
 title: sess07_th.jpg
 uid: 2294c735-c4a5-eca0-d1d6-ee3072c74f6d

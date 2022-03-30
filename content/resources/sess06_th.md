@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of Sean Dreilinger on Flickr.
   image-alt: An infant on hands and knees reaches out an exploratory hand toward a
     large toy spinning top in motion on the floor in front of it.
+parent_uid: 56c852b3-74a3-02bc-a7e7-ed5c15fa36ac
 resourcetype: Image
 title: sess06_th.jpg
 uid: e1f2e431-0a61-b57c-de78-52cb96308135

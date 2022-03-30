@@ -10,6 +10,7 @@ image_metadata:
   credit: Public domain image.
   image-alt: Image of a postage stamp with a portrait of the French mathematician
     Lagrange.
+parent_uid: 80655e0a-6d9a-14f6-5217-66094b07db0c
 resourcetype: Image
 title: sess08_th.jpg
 uid: d2db8515-a984-ed8c-01c0-424cade28213

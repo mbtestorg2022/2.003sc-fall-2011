@@ -10,6 +10,7 @@ image_metadata:
     to another object through finding the equilibrium point.
   credit: Image courtesy of Lichfield District Council on Flickr.
   image-alt: Photo of old-fashioned balance scales on a white background.
+parent_uid: 56828116-6798-4acb-bfaa-7d752c91ca91
 resourcetype: Image
 title: sess10_th.jpg
 uid: 996e1292-32b0-c5ad-240a-fde6bfa6619b

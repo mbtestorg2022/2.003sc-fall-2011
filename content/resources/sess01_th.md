@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of fictures on Flickr.
   image-alt: Photo of a billiards player midway through shooting the cue ball toward
     the rest of balls, still in rack formation.
+parent_uid: 70dbfa93-e140-9409-6311-b3641daa05ef
 resourcetype: Image
 title: sess01_th.jpg
 uid: 371dd308-8ff0-0cf0-61a9-d4a967913784

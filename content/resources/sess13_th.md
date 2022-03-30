@@ -9,6 +9,7 @@ image_metadata:
     natural frequency.
   credit: Image courtesy of Maruku San on Flickr.
   image-alt: Close up image of piano strings inside a piano.
+parent_uid: dcb2cda1-7e74-304f-15d8-a1aecb3cab44
 resourcetype: Image
 title: sess13_th.jpg
 uid: de81a553-0ab6-f50f-99f0-0691c977edc1

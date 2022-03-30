@@ -9,6 +9,7 @@ image_metadata:
     disperse.
   credit: Image courtesy of John Martin on Flickr.
   image-alt: Photographs of ripples in a pond emanating from multiple points.
+parent_uid: c9bc5d26-e2c3-014e-ae82-f96f3f7633d2
 resourcetype: Image
 title: sess12_th.jpg
 uid: 539a0a6c-7a5a-f345-f44e-207e441ceecd
